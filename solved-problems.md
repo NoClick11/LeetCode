@@ -6,3 +6,4 @@
 2026-09-01 | Search in Rotated Sorted Array | busca binaria | https://leetcode.com/problems/search-in-rotated-sorted-array/
 2026-09-02 | Number of Islands | grafos | https://leetcode.com/problems/number-of-islands/
 2026-09-03 | House Robber | programação dinâmica | https://leetcode.com/problems/house-robber/
+2026-09-04 | Linked List Cycle | listas encadeadas | https://leetcode.com/problems/linked-list-cycle/
