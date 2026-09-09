@@ -7,3 +7,4 @@
 2026-09-02 | Number of Islands | grafos | https://leetcode.com/problems/number-of-islands/
 2026-09-03 | House Robber | programação dinâmica | https://leetcode.com/problems/house-robber/
 2026-09-04 | Linked List Cycle | listas encadeadas | https://leetcode.com/problems/linked-list-cycle/
+2026-09-09 | Jump Game | greedy | https://leetcode.com/problems/jump-game/
