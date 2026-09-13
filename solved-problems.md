@@ -10,3 +10,4 @@
 2026-09-09 | Jump Game | greedy | https://leetcode.com/problems/jump-game/
 2026-09-10 | Binary Tree Level Order Traversal | arvores | https://leetcode.com/problems/binary-tree-level-order-traversal/
 2026-09-11 | Product of Array Except Self | arrays | https://leetcode.com/problems/product-of-array-except-self/
+2026-09-13 | Course Schedule | grafos | https://leetcode.com/problems/course-schedule/
