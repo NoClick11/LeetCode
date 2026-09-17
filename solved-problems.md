@@ -13,3 +13,4 @@
 2026-09-13 | Course Schedule | grafos | https://leetcode.com/problems/course-schedule/
 2026-09-15 | Climbing Stairs | programação dinâmica | https://leetcode.com/problems/climbing-stairs/
 2026-09-16 | Reverse Linked List | listas encadeadas | https://leetcode.com/problems/reverse-linked-list/
+2026-09-17 | Generate Parentheses | recursão | https://leetcode.com/problems/generate-parentheses/
