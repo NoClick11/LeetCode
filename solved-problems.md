@@ -12,3 +12,4 @@
 2026-09-11 | Product of Array Except Self | arrays | https://leetcode.com/problems/product-of-array-except-self/
 2026-09-13 | Course Schedule | grafos | https://leetcode.com/problems/course-schedule/
 2026-09-15 | Climbing Stairs | programação dinâmica | https://leetcode.com/problems/climbing-stairs/
+2026-09-16 | Reverse Linked List | listas encadeadas | https://leetcode.com/problems/reverse-linked-list/
